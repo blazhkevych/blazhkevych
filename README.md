@@ -1,6 +1,42 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+  <div id="badges">
+  <a href="https://linkedin.com/in/blazhkevych">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=blazhkevych&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+
+
+
+
+
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=blazhkevych&show_icons=true&theme=gotham" alt="blazhkevych" />
+
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+  
+<a href="https://www.buymeacoffee.com/blazhkevych" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+
+
+
+
 # 💫 About Me:
 🌱 I’m currently learning the .NET platform and the C# language.<br>⚡ Fun fact. It takes all my free time :)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/blazhkevych) 
