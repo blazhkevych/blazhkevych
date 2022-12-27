@@ -8,6 +8,15 @@
 
 :hammer_and_wrench: Languages and Tools : \
 C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, Microsoft .NET, MS SQL Server.
+  
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
+
+</details>
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
@@ -27,15 +36,5 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ---
 [![](https://visitcount.itsvg.in/api?id=blazhkevych&icon=0&color=12)](https://visitcount.itsvg.in)
-  
-  
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-
-</details>
 
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
