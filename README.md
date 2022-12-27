@@ -21,13 +21,7 @@ C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, M
 ![](https://github-profile-trophy.vercel.app/?username=blazhkevych&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
   
 </details>
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/blazhkevych/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=blazhkevych&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-</details>
+
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
