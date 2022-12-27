@@ -38,6 +38,4 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 </details>
 
-<details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
-  <br/>
+![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
