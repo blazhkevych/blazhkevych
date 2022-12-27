@@ -7,7 +7,7 @@
 </div>
 
 :hammer_and_wrench: Languages and Tools : \
-C++, UML, StarUML, C#, ReSharper, Windows Forms, WPF, Microsoft .NET, MS SQL Server.
+C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, Microsoft .NET, MS SQL Server.
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
