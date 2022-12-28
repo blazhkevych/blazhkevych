@@ -6,7 +6,7 @@
   </a>
 </div>
 
-:hammer_and_wrench: Languages and Tools : \
+:hammer_and_wrench: Languages, tools, frameworks : \
 C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, Microsoft .NET, MS SQL Server.
 
 # 💫 About Me:
