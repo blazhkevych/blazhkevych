@@ -7,7 +7,7 @@
 </div>
 
 :hammer_and_wrench: Languages, tools, frameworks : \
-C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, Microsoft .NET, MS SQL Server.
+C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, XAML, Microsoft .NET, MS SQL Server.
 
 # 💫 About Me:
 🌱 I’m currently learning the .NET platform and the C# language.<br>⚡ Fun fact. It takes all my free time :)
