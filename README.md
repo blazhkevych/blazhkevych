@@ -13,12 +13,10 @@ C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, X
   
   <summary>:zap: GitHub Stats</summary>
   <img align="center" alt="blazhkevych`s GitHub Stats" src="https://github-readme-stats-delta-puce-43.vercel.app/api?username=blazhkevych&show_icons=true&hide_border=true&theme=tokyonight" />
+ 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blazhkevych&" alt="blazhkevych" /></p>
   
-  [![Top Langs](https://github-readme-stats-delta-puce-43.vercel.app/api/top-langs/?username=blazhkevych&layout=compact&langs_count=10)](https://github.com/blazhkevych/github-readme-stats)
-    
 </details> 
-<br>
-
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
-<a href="https://www.buymeacoffee.com/blazhkevych" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<br>  
+<p><a href="https://www.buymeacoffee.com/blazhkevych"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="blazhkevych" /></a></p><br><br>
