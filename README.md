@@ -10,15 +10,13 @@
 C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, XAML, Microsoft .NET, MS SQL Server, SQL, T-SQL, VS Code, HTML5, CSS3.
 
 # 💫 About Me:
-🌱 I’m currently learning the .NET platform and the C# language.<br>⚡ Fun fact. It takes all my free time :)
+🌱 I’m currently learning the .NET platform.<br>⚡ Fun fact. It takes all my free time :)
 <details>
   
   <summary><b>📈&nbsp;&nbsp;GitHub Stats</b></summary>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blazhkevych&theme=gotham&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=blazhkevych&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazhkevych&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
   
 </details>
 
