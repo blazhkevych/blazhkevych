@@ -12,7 +12,7 @@ C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, X
 <details>
   
   <summary>:zap:GitHub Stats</summary>
-  <img align="left" alt="blazhkevych GitHub Stats" src="https://https://github-readme-stats-blazhkevych.vercel.app/api?username=blazhkevych&show_icons=true&hide_border=true" />
+  <img align="left" alt="blazhkevych GitHub Stats" src="https://github-readme-stats-blazhkevych.vercel.app/api?username=blazhkevych&show_icons=true&hide_border=true" />
     
 </details>
 
