@@ -22,7 +22,7 @@ C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, X
   <br>
   <p>
     <img align="center" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=blazhkevych&" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=blazhkevych&theme=tokyonight&hide_border=true" 
          alt="blazhkevych" />
   </p>
   
