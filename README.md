@@ -15,8 +15,6 @@ C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, X
   
   <summary><b>📈&nbsp;&nbsp;GitHub Stats</b></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazhkevych&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
   
 </details>
 
