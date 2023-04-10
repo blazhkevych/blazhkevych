@@ -14,7 +14,7 @@ C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, X
   <summary>:zap: GitHub Stats</summary>
   <img align="center" alt="blazhkevych`s GitHub Stats" src="https://github-readme-stats-delta-puce-43.vercel.app/api?username=blazhkevych&show_icons=true&hide_border=true&theme=tokyonight" />
   
-  [![Top Langs](https://github-readme-stats-delta-puce-43.vercel.app/api/top-langs/?username=blazhkevych&layout=compact)](https://github.com/blazhkevych/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-delta-puce-43.vercel.app/api/top-langs/?username=blazhkevych&layout=compact&langs_count=10)](https://github.com/blazhkevych/github-readme-stats)
     
 </details> 
 <br>
