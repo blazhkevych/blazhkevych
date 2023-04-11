@@ -6,6 +6,7 @@
 				alt="LinkedIn Badge">
 		</a>
 	</div>
+	<br>
 	<p>
 		:hammer_and_wrench: Languages, tools, frameworks, others :
 		<br>
