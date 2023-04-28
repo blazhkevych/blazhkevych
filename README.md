@@ -11,7 +11,7 @@
 		:hammer_and_wrench: Languages, tools, frameworks, others :
 		<br>
 		C++, Microsoft Visual Studio, UML, StarUML, C#, ReSharper, Windows Forms, WPF, XAML, Microsoft .NET, MS SQL
-		Server, SQL, T-SQL, VS Code, HTML5, CSS3.  
+		Server, SQL, T-SQL, VS Code, HTML5, CSS3, JavaScript.  
 		<img src="https://user-images.githubusercontent.com/65856963/231162632-49f793d3-2b0c-4719-8ee9-f879f4375142.gif" alt="cat" width="30">
 	</p>
 	<details>
